@@ -1,4 +1,4 @@
-export default data = [
+const dataSrc = [
   {
     id: 1,
     title: "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
@@ -80,3 +80,5 @@ export default data = [
     },
   },
 ];
+
+export default dataSrc;
